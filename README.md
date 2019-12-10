@@ -12,7 +12,7 @@ Needed libraries with an example of how to install them is given below.
 Note mysql.connector might give some issues.
 
 ```
-pip3 install json difflib mysqlconnector
+pip3 install json difflib mysqlconnector pandas numpy folium flask
 ```
 
 ### Installing
